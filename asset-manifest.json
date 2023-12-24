@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.10643308.css",
+    "main.js": "/my-portfolio/static/js/main.1d1a0684.js",
+    "static/media/search-find.png": "/my-portfolio/static/media/search-find.638090c57714ffd87e69.png",
+    "static/media/search-pic-big.png": "/my-portfolio/static/media/search-pic-big.89e1962da8d1bd77dbcc.png",
+    "static/media/petly.png": "/my-portfolio/static/media/petly.8839335b2afffc6489e2.png",
+    "static/media/phonebook-big.png": "/my-portfolio/static/media/phonebook-big.e3ac6013d4335b6adb98.png",
+    "static/media/phonebook-home.png": "/my-portfolio/static/media/phonebook-home.3391149f31fdba718d5e.png",
+    "static/media/kinopoisk-big2.png": "/my-portfolio/static/media/kinopoisk-big2.4b47cb7c69b03540c089.png",
+    "static/media/kinopoisk.png": "/my-portfolio/static/media/kinopoisk.ea53ef3b0cb5ba8e5e37.png",
+    "static/media/art-blog.png": "/my-portfolio/static/media/art-blog.2f3d424ece0b39b4bc35.png",
+    "static/media/yum.png": "/my-portfolio/static/media/yum.b5cdddbd4f6ddea669f4.png",
+    "static/media/Furniture.png": "/my-portfolio/static/media/Furniture.fba05c59c25d75fca5d8.png",
+    "static/media/aperture.png": "/my-portfolio/static/media/aperture.d99201f8f44831aa1d22.png",
+    "static/media/web.png": "/my-portfolio/static/media/web.7eca0626a07616fe1668.png",
+    "static/media/organickB.png": "/my-portfolio/static/media/organickB.a8bd60bbf18773598147.png",
+    "static/media/organickL.png": "/my-portfolio/static/media/organickL.4cc56db03154923e9af0.png",
+    "static/media/art-blog-big.png": "/my-portfolio/static/media/art-blog-big.f20f5e448422beaea858.png",
+    "static/media/ice.png": "/my-portfolio/static/media/ice.86affe7ba8d1c340a290.png",
+    "static/media/web-big2.png": "/my-portfolio/static/media/web-big2.badc3fc129f8818ebd16.png",
+    "static/media/coctails.png": "/my-portfolio/static/media/coctails.71feb1881c6dafc5c35d.png",
+    "static/media/ice-big.png": "/my-portfolio/static/media/ice-big.c7d1dc2fc0cba4d01072.png",
+    "static/media/coctails-big.png": "/my-portfolio/static/media/coctails-big.85a7c0b2103a7f26dd59.png",
+    "static/media/bg2.png": "/my-portfolio/static/media/bg2.c01fd2fe85d0fcd2db36.png",
+    "static/media/sun.svg": "/my-portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/my-portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/git.svg": "/my-portfolio/static/media/git.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/my-portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/insta.svg": "/my-portfolio/static/media/insta.c877a8275355fec38548544a6d0ab3b4.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/link.svg": "/my-portfolio/static/media/link.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "main.10643308.css.map": "/my-portfolio/static/css/main.10643308.css.map",
+    "main.1d1a0684.js.map": "/my-portfolio/static/js/main.1d1a0684.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10643308.css",
+    "static/js/main.1d1a0684.js"
+  ]
+}
