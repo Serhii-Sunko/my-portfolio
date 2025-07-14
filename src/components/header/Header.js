@@ -37,7 +37,7 @@ export default function Header() {
           <div className="header__text">
             <p ref={el}></p>
           </div>
-          <a href="https://ibb.co/qRpdTHP" target={"blank"} className="button">
+          <a href="https://drive.google.com/file/d/1x_LMRjhi2m2p0nwn8oPCwARgp6cfRnyf/view?usp=sharing" target={"blank"} className="button">
             View Certificate
           </a>
         </div>
